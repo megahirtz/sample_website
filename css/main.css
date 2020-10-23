@@ -4,3 +4,50 @@
 .nav-spacing {
     margin: 0 0 0 10px
 }
+.image-link {
+    text-decoration: none;
+}
+
+#main-nav > a {
+    text-decoration: none;
+    color: blue;
+}
+
+header {
+    text-align: center;
+    margin: 0 0 80px;
+}
+
+#whale-pic {
+    display: block;
+    margin: auto;
+}
+
+#book-report {
+    width: 500px; 
+    margin: 20px auto; 
+    padding: 30px; 
+    background-color: #fafafa;
+}
+
+#book-cover {
+    height: 200px;
+    float: left; 
+    margin-right: 40px;
+}
+
+#book-quote {
+    font-style: italic; 
+    font-size: 20px;
+}
+
+p > span {
+    font-style: normal; 
+    font-size: 24px; 
+    font-weight: bold; 
+    color: #ff0000;
+}
+
+td {
+    padding: 10px;
+}
